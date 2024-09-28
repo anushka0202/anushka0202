@@ -6,8 +6,6 @@ Welcome to my GitHub profile! I'm a Software Development Engineer (SDE 1) with a
 
 - 👨‍💻 All of my projects are available at [https://portfolio-anushka-raj-bagun.netlify.app/](https://portfolio-anushka-raj-bagun.netlify.app/)
 
-- 📄 Know about my experiences at [https://drive.google.com/file/d/13KD4kWCJvRfk0V_nBpEtVICe_Ot38Tqe/view?usp=drive_link](https://drive.google.com/file/d/13KD4kWCJvRfk0V_nBpEtVICe_Ot38Tqe/view?usp=drive_link)
-
 ## Skills
 
 - **Programming Languages:** JavaScript, TypeScript, C++
